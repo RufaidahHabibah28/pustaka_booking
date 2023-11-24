@@ -1,0 +1,1 @@
+$user = $this->ModelUser->cekData(['email' => $email])->row_array();
